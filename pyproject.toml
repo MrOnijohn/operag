@@ -8,5 +8,6 @@ dependencies = [
     "faiss-cpu>=1.12.0",
     "numpy>=2.3.3",
     "path>=17.1.1",
+    "rank-bm25>=0.2.2",
     "sentence-transformers>=5.1.1",
 ]
